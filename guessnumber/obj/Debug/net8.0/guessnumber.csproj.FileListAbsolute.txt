@@ -1,0 +1,14 @@
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\bin\Debug\net8.0\guessnumber.exe
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\bin\Debug\net8.0\guessnumber.deps.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\bin\Debug\net8.0\guessnumber.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\bin\Debug\net8.0\guessnumber.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\bin\Debug\net8.0\guessnumber.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\refint\guessnumber.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\guessnumber.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\guessnumber\obj\Debug\net8.0\ref\guessnumber.dll

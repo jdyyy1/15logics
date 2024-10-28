@@ -1,0 +1,14 @@
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\bin\Debug\net8.0\palindromechecker.exe
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\bin\Debug\net8.0\palindromechecker.deps.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\bin\Debug\net8.0\palindromechecker.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\bin\Debug\net8.0\palindromechecker.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\bin\Debug\net8.0\palindromechecker.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\refint\palindromechecker.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\palindromechecker.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\palindromechecker\obj\Debug\net8.0\ref\palindromechecker.dll

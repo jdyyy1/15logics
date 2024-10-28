@@ -1,0 +1,14 @@
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\bin\Debug\net8.0\primenumber.exe
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\bin\Debug\net8.0\primenumber.deps.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\bin\Debug\net8.0\primenumber.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\bin\Debug\net8.0\primenumber.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\bin\Debug\net8.0\primenumber.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\refint\primenumber.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\primenumber.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\primenumber\obj\Debug\net8.0\ref\primenumber.dll

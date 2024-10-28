@@ -1,0 +1,14 @@
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\bin\Debug\net8.0\arrayreversal.exe
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\bin\Debug\net8.0\arrayreversal.deps.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\bin\Debug\net8.0\arrayreversal.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\bin\Debug\net8.0\arrayreversal.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\bin\Debug\net8.0\arrayreversal.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\refint\arrayreversal.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\arrayreversal.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\arrayreversal\obj\Debug\net8.0\ref\arrayreversal.dll

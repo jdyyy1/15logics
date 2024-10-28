@@ -1,0 +1,14 @@
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\bin\Debug\net8.0\GWA.exe
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\bin\Debug\net8.0\GWA.deps.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\bin\Debug\net8.0\GWA.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\bin\Debug\net8.0\GWA.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\bin\Debug\net8.0\GWA.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\refint\GWA.dll
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.pdb
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\GWA.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\15problemmission\GWA\obj\Debug\net8.0\ref\GWA.dll
