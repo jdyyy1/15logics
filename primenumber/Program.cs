@@ -5,7 +5,7 @@
         if (input == 0) {
             Console.WriteLine("Sorry, number only start from 1");
         }
-        for (int i = 1; i < input; i += 2) {
+        for (int i = 1; i <= input; i += 2) {
             Console.Write(i + " ");
         }
     }

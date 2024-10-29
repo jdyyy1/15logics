@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\GWA\\GWA.csproj": {}
+    "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\GWA\\GWA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\GWA\\GWA.csproj": {
+    "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\GWA\\GWA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\GWA\\GWA.csproj",
+        "projectUniqueName": "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\GWA\\GWA.csproj",
         "projectName": "GWA",
-        "projectPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\GWA\\GWA.csproj",
+        "projectPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\GWA\\GWA.csproj",
         "packagesPath": "C:\\Users\\Dy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\GWA\\obj\\",
+        "outputPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\GWA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dy\\AppData\\Roaming\\NuGet\\NuGet.Config"
