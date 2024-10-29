@@ -1,0 +1,15 @@
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\bin\Debug\net8.0\matrixArrayMult.exe
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\bin\Debug\net8.0\matrixArrayMult.deps.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\bin\Debug\net8.0\matrixArrayMult.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\bin\Debug\net8.0\matrixArrayMult.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\bin\Debug\net8.0\matrixArrayMult.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.sourcelink.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\refint\matrixArrayMult.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\matrixArrayMult.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\matrixArrayMult\obj\Debug\net8.0\ref\matrixArrayMult.dll
