@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bubblesort
-build_property.ProjectDir = C:\Users\Dy\Desktop\c# vsc program\15problemmission\bubblesort\
+build_property.ProjectDir = C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

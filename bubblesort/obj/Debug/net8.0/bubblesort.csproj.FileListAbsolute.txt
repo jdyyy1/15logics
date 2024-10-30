@@ -12,3 +12,18 @@ C:\Users\Dy\Desktop\c# vsc program\15problemmission\bubblesort\obj\Debug\net8.0\
 C:\Users\Dy\Desktop\c# vsc program\15problemmission\bubblesort\obj\Debug\net8.0\bubblesort.pdb
 C:\Users\Dy\Desktop\c# vsc program\15problemmission\bubblesort\obj\Debug\net8.0\bubblesort.genruntimeconfig.cache
 C:\Users\Dy\Desktop\c# vsc program\15problemmission\bubblesort\obj\Debug\net8.0\ref\bubblesort.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\bin\Debug\net8.0\bubblesort.exe
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\bin\Debug\net8.0\bubblesort.deps.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\bin\Debug\net8.0\bubblesort.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\bin\Debug\net8.0\bubblesort.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\bin\Debug\net8.0\bubblesort.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.sourcelink.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\refint\bubblesort.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\bubblesort.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\bubblesort\obj\Debug\net8.0\ref\bubblesort.dll

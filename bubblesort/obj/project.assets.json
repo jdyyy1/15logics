@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\bubblesort\\bubblesort.csproj",
+      "projectUniqueName": "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\bubblesort\\bubblesort.csproj",
       "projectName": "bubblesort",
-      "projectPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\bubblesort\\bubblesort.csproj",
+      "projectPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\bubblesort\\bubblesort.csproj",
       "packagesPath": "C:\\Users\\Dy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\15problemmission\\bubblesort\\obj\\",
+      "outputPath": "C:\\Users\\Dy\\Desktop\\c# vsc program\\git repo 15prob\\15logics\\bubblesort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dy\\AppData\\Roaming\\NuGet\\NuGet.Config"

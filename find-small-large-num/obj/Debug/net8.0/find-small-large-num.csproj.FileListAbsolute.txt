@@ -1,0 +1,15 @@
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.sourcelink.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\bin\Debug\net8.0\find-small-large-num.exe
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\bin\Debug\net8.0\find-small-large-num.deps.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\bin\Debug\net8.0\find-small-large-num.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\bin\Debug\net8.0\find-small-large-num.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\bin\Debug\net8.0\find-small-large-num.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\refint\find-small-large-num.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\find-small-large-num.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\find-small-large-num\obj\Debug\net8.0\ref\find-small-large-num.dll
