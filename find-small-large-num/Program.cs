@@ -32,7 +32,7 @@
             Console.Write (sorts + " ");
         }
         Console.WriteLine();
-        
+        //--------------------------------------------------------//
         bool loop = true;
         while (loop) {
             Console.Write("How many data? ");

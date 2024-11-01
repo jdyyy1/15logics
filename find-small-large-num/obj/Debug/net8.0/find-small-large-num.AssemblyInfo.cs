@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("find-small-large-num")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45d2859c08cf5cb4a026a4ccaac1fc94374d4664")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162cedb65d0b40edc689e4a6fcab77100336551c")]
 [assembly: System.Reflection.AssemblyProductAttribute("find-small-large-num")]
 [assembly: System.Reflection.AssemblyTitleAttribute("find-small-large-num")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

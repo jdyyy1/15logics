@@ -1,0 +1,15 @@
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\bin\Debug\net8.0\binarysearch.exe
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\bin\Debug\net8.0\binarysearch.deps.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\bin\Debug\net8.0\binarysearch.runtimeconfig.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\bin\Debug\net8.0\binarysearch.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\bin\Debug\net8.0\binarysearch.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.AssemblyInfoInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.AssemblyInfo.cs
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.csproj.CoreCompileInputs.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.sourcelink.json
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\refint\binarysearch.dll
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.pdb
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\binarysearch.genruntimeconfig.cache
+C:\Users\Dy\Desktop\c# vsc program\git repo 15prob\15logics\binarysearch\obj\Debug\net8.0\ref\binarysearch.dll
